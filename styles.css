@@ -1,0 +1,5 @@
+body {
+    font-family: Roboto;
+    background-color: #24273a !important; /* Added !important cause it wouldn't work otherwise */
+    color: #cad3f5 !important; /* Added !important cause it wouldn't worth either */
+}
