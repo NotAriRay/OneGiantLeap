@@ -1,8 +1,5 @@
-# web
+# One Giant Leap
 
 
 
-
-A small repository containing my projects at
-
-# jCoders Academy!
+Smal site made with only html and css about the moon landing aka Apollo 11 mission.
